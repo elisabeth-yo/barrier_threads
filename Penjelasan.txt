@@ -1,0 +1,13 @@
+1. Untuk apakah tujuan program ini?
+2. section berapa yang menjelskan program ini?
+3. jelaskan logika program ini!
+4. Apa guna Source Code ini?
+5. File penjelasan dan source code diletakkan pada github!
+
+--> Jawaban
+1. Tujuan program ini adalah untuk menegtahui adanya proses penjadwalan eksekusi program
+2. pada baris ke 10 sampai 17 pada baris code tersebut terdapat proses penjedaan pada outputan selanjutnya dengan waktu yang ditentukan 
+3. jadi pada program ini memberikan ketentuan banyak baris dan kata yang akan dieksekusi, 
+kemuadian ada proses looping pada program dan terdapat waktu tunggu untuk menampilkan kata keluaran sesuai waktu yang ditentukan. 
+4. ada pada github 
+5. ada pada github
